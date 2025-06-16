@@ -104,3 +104,4 @@ D:\ReactProjects\Medical Record Dashboard\HFilesBackend\obj\Debug\net8.0\HFilesB
 D:\ReactProjects\Medical Record Dashboard\HFilesBackend\obj\Debug\net8.0\HFilesBackend.genruntimeconfig.cache
 D:\ReactProjects\Medical Record Dashboard\HFilesBackend\obj\Debug\net8.0\ref\HFilesBackend.dll
 D:\ReactProjects\Medical Record Dashboard\HFilesBackend\bin\Debug\net8.0\HFilesBackend.staticwebassets.runtime.json
+D:\ReactProjects\Medical Record Dashboard\HFilesBackend\obj\Debug\net8.0\HFilesBackend.sourcelink.json
